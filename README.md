@@ -1,0 +1,2 @@
+# JSBin-look-alike-
+This is some code that replicates the functionality of JSBin - a website that is very popular amongst web developers. Feel free to edit this code to have the program run however you like! I will let you know that the 'RUN' button does not work, as that would require a eval command which would expose my servers. So I'll let you copy the code and write your own code to have the 'RUN' button function. 
